@@ -4,3 +4,4 @@ I'm Arjun, a computer science student at UIUC. I enjoy building robust software 
 
 - 📫 Reach me: arjunreddy5275@gmail.com
 - 💻 Check out my projects below!
+- 🌐 I run [r/aiinfra](https://www.reddit.com/r/aiinfra/), a community for AI infrastructure discussions.
